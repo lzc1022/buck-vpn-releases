@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "3.0.4",
+  "buildNumber": 5,
+  "mandatory": false,
+  "bundleIdentifier": "com.wuzi.super.vpn",
+  "teamIdentifier": "VRPNS2RBP3",
+  "url": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/macos-updater/releases/3.0.4+5/Buck%20VPN-3.0.4%2B5.dmg",
+  "sha256": "25ca2cb63597aa9585f8e00bd4e20bffb9c6fd4c3a06b5d0621b2845dd789a66",
+  "length": 63399530
+}

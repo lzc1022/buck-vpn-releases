@@ -9,11 +9,19 @@
       "channel": "stable",
       "mandatory": false,
       "release": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/desktop-updater/releases/3.0.2/macos/release.json"
+    },
+    {
+      "version": "3.0.3",
+      "buildNumber": 4,
+      "platform": "macos",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/desktop-updater/releases/3.0.3/macos/release.json"
     }
   ],
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-1c1e2a0e453403a7fb009e53",
-    "value": "PdeI1mpEIvOclpQPoubr1XBJ4dJX1imziCK2NBa6D3XJYmfMazBvcIjRM+cHQcsr7ArpGX01s4feWbZ0fB02BA=="
+    "value": "0+yvRbpyHbxv2juyj+3RzJajyMlPZdKDEpAtco+VbQ1kTjnfZBfQD+90T0sCt+pcsW8qHNBXLcIvoyJhG+yVDg=="
   }
 }

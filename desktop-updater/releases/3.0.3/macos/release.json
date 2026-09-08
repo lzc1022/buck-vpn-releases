@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 3,
+  "packageId": "com.wuzi.super.vpn",
+  "appName": "Buck VPN.app",
+  "version": "3.0.3",
+  "buildNumber": 4,
+  "platform": "macos",
+  "channel": "stable",
+  "artifact": {
+    "kind": "dmg",
+    "url": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/desktop-updater/releases/3.0.3/macos/Buck%20VPN-3.0.3-macos.dmg",
+    "sha256": "dfe447b16b9ee820c8d8fdc296917fa5c1f76fb5bbb8a02d8c8033ddda42e5c9",
+    "length": 71118235
+  },
+  "install": {
+    "strategy": "wholeBundleReplace",
+    "macosDmg": {
+      "appBundleName": "Buck VPN.app",
+      "verifyPrimarySignature": true
+    }
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-1c1e2a0e453403a7fb009e53",
+    "value": "4NL3oCj+1rzcMLMyUFpquQ0CtgFhlykZRXxMsy3w940DROhOFnNdfT43txfi+E87t3xutGLdajpTiAWVUc8JCw=="
+  },
+  "minimumUpdaterVersion": "2.6.0",
+  "generatedAt": "2026-09-08T07:33:49.323035Z"
+}

@@ -9,8 +9,8 @@
   "artifact": {
     "kind": "dmg",
     "url": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/desktop-updater/releases/3.0.2/macos/Buck%20VPN-3.0.2-macos.dmg",
-    "sha256": "1464fab96f734ec1104678a4634340f53198fd985467067f90484389df06364f",
-    "length": 70967084
+    "sha256": "52f8d501d0cf93da1c48c1cb0ca9cd1dc0d69fb79ba5f279b4702d48bce7dc81",
+    "length": 71115930
   },
   "install": {
     "strategy": "wholeBundleReplace",
@@ -22,8 +22,8 @@
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-1c1e2a0e453403a7fb009e53",
-    "value": "tdm5N+S7CTR+jUQBAaark6uYxPFUSW9pj0z3T+IUpADHiT8xSb5/XPXXm/fM/wvGRy9CBrsGqaU/rygpfNLvDQ=="
+    "value": "LBiQMjFXmRde1HSemubi1Y8TZvYIe8wj4g1BELFbKfMaCYAxo7Vhjoox3jJTkHycKYXJpq8jE/ciu3/HL/0zBQ=="
   },
   "minimumUpdaterVersion": "2.6.0",
-  "generatedAt": "2026-09-08T06:58:18.947380Z"
+  "generatedAt": "2026-09-08T07:15:33.041845Z"
 }

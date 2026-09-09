@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "3.0.17",
-  "buildNumber": 18,
+  "version": "3.0.18",
+  "buildNumber": 19,
   "mandatory": false,
   "bundleIdentifier": "com.wuzi.super.vpn",
   "teamIdentifier": "VRPNS2RBP3",
-  "url": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/macos-updater/releases/3.0.17+18/Buck%20VPN-3.0.17%2B18.dmg",
-  "sha256": "86e071c333557df4120efa86e36b90ea67b3330a3f8aa077f51a68a3e3f8a91e",
-  "length": 63402396
+  "url": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/macos-updater/releases/3.0.18+19/Buck%20VPN-3.0.18%2B19.dmg",
+  "sha256": "eea03dad910a1605cf4a9388baa587c0a0b8d97c9e884868b2ba36f45cd1f7dd",
+  "length": 63402346
 }

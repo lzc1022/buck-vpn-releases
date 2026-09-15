@@ -5,5 +5,5 @@
   "mandatory": false,
   "bundleIdentifier": "com.wuzi.super.vpn",
   "teamIdentifier": "VRPNS2RBP3",
-  "url": "https://github.com/lzc1022/buck-vpn-releases/releases/download/v3.2.0/Buck.VPN-3.2.0%2B11.dmg"
+  "url": "https://raw.githubusercontent.com/lzc1022/buck-vpn-releases/main/macos-updater/releases/3.2.0+11/Buck%20VPN-3.2.0%2B11.dmg"
 }
